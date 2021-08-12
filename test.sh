@@ -30,6 +30,7 @@ popd
 echo
 echo "Tests:"
 
+
 echo
 echo "1. Empty pkg directory"
 rm pkg/*
