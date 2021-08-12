@@ -1,0 +1,21 @@
+{
+    "name": "goetas/v2",
+    "authors": [
+        {
+            "name": "Asmir Mustafic",
+            "email": "goetas@gmail.com"
+        }
+    ],
+    "require": {
+        "goetas/pkg":"@dev"
+    },
+    "repositories": [
+        {
+            "packagist.org": false
+        },
+        {
+            "type": "path",
+            "url": "../pkg"
+        }
+    ]
+}
